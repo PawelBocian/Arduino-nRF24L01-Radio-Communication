@@ -2,7 +2,7 @@
 
 ## How it works ?
 
-![](images/Work_screen.png)
+
 
 Sender is sending message with variable containing millis() `Time until board started` every 2 seconds. Receiver displays received value in terminal window. 
 
